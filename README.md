@@ -8,6 +8,7 @@ Feel free to submit PRs if you want to see a change or an update, I'll be likely
    [![AUR](https://img.shields.io/aur/votes/python313.svg)](https://aur.archlinux.org/packages/python313)
  - [python312](python312/)
  - [python311](python311/)
+ - [python310](python310/)
  - [python39](python39/)
    [![AUR](https://img.shields.io/aur/votes/python39.svg)](https://aur.archlinux.org/packages/python39)
  - [python38](python38/)
